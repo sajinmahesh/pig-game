@@ -1,0 +1,11 @@
+{
+  "name": "piggame",
+  "version": "1.0.0",
+  "description": "a multiplayer game who ever scores 100 points first will wins",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sajin mahesh",
+  "license": "ISC"
+}
